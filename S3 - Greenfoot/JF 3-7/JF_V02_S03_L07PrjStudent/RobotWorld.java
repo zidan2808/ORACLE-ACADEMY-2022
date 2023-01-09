@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class MyWorld here.
  * 
- * @PujaAstawa (your name) 
+* @author (2115101013_Darmawan Jiddan)  
  * @version (a version number or a date)
  */
 public class RobotWorld extends World
